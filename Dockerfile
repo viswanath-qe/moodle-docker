@@ -1,6 +1,4 @@
 # Docker-Moodle
-# Dockerfile for moodle instance. more dockerish version of https://github.com/sergiogomez/docker-moodle
-# Forked from Jade Auer's docker version. https://github.com/jda/docker-moodle
 FROM ubuntu:20.04
 LABEL maintainer="Viswanath Ch <viswach123@gmail.com>"
 
